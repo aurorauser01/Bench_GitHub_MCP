@@ -1,48 +1,9 @@
-- Test_3 2026-06-29 07:07:53
+- Test_3 2026-06-29 01:24:59
 
-```
-Bench_GitHub_MCP/
-copilot
-    session-store.db-shm
-    config.json
-    logs
-        process-1782716873350-53.log
-    session-store.db
-    session-store.db-wal
-    session-state
-created
-data
-    node-compile-cache
-        v24.16.0-x64-0d1ba6a4-0
-skills
-    analyzing-xlsx
-        scripts
-            preprocess.py
-            xlsx_toolkit.py
-        SKILL.md
-    analyzing-csv
-        scripts
-            preprocess.py
-        SKILL.md
-    analyzing-docx
-        scripts
-            preprocess.py
-        SKILL.md
-    analyzing-pptx
-        scripts
-            preprocess.py
-            pptx_toolkit.py
-        SKILL.md
-    analyzing-pdf
-        scripts
-            preprocess.py
-            wait_for_artifact.py
-            convert_pdf_to_images.py
-        SKILL.md
-uploads
-workspace
-    _artifacts
-        _tool_guard
-    tmpdir
-        Report.md
-```
+# Bench_GitHub_MCP Repository Structure
+
+- README.md
+- agents/
+  - Report.md
+  - test_27.md
+  - test_28.md
