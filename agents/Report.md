@@ -1,57 +1,9 @@
-- Test_3 2026-07-08 07:32:02
+- Test_3 2026-07-08 07:56:53
 
 # Bench_GitHub_MCP — File Structure
 
-- 📁 copilot/
-  - config.json
-  - logs/
-    - process-1783495922126-77.log
-  - session-state
-  - session-store.db
-  - session-store.db-shm
-  - session-store.db-wal
-- 📁 created/
-- 📁 data/
-  - node-compile-cache/
-    - v24.16.0-x64-0d1ba6a4-0/
-- 📁 skills/
-  - analyzing-csv/
-    - SKILL.md
-    - scripts/
-      - preprocess.py
-  - analyzing-docx/
-    - SKILL.md
-    - scripts/
-      - preprocess.py
-  - analyzing-html/
-    - SKILL.md
-    - scripts/
-      - preprocess.py
-  - analyzing-markdown/
-    - SKILL.md
-    - scripts/
-      - preprocess.py
-  - analyzing-pdf/
-    - SKILL.md
-    - scripts/
-      - convert_pdf_to_images.py
-      - preprocess.py
-      - wait_for_artifact.py
-  - analyzing-pptx/
-    - SKILL.md
-    - scripts/
-      - pptx_toolkit.py
-      - preprocess.py
-  - analyzing-xlsx/
-    - SKILL.md
-    - scripts/
-      - preprocess.py
-      - xlsx_toolkit.py
-  - file-attachments/
-    - SKILL.md
-  - onedrive-fileshare/
-    - SKILL.md
-- 📁 uploads/
-- 📁 workspace/
-  - _artifacts/
-    - _tool_guard/
+- 📄 README.md
+- 📁 agents/
+  - Report.md
+  - test_27.md
+  - test_28.md
