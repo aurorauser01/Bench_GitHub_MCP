@@ -1,17 +1,34 @@
-# Repository File Structure
+- Test_2 2026-07-18 19:25:48 PDT
 
-- Test_2 2026-07-19 01:19:05 UTC
+# Bench_GitHub_MCP Repository File Structure
 
-## Bench_GitHub_MCP
+```
+Bench_GitHub_MCP/
+├── README.md
+└── agents/
+    ├── Report.md
+    ├── test_27.md
+    ├── test_28.md
+    ├── test_29.md
+    ├── test_30.md
+    ├── test_31.md
+    ├── test_32.md
+    └── test_33/
+        └── report.md
+```
 
-- README.md
-- agents/
-  - Report.md
-  - test_27.md
-  - test_28.md
-  - test_29.md
-  - test_30.md
-  - test_31.md
-  - test_32.md
-  - test_33/
-    - report.md
+## File Details
+
+| Path | Type | Size (bytes) |
+|---|---|---|
+| README.md | file | 1222 |
+| agents/ | dir | - |
+| agents/Report.md | file | 239 |
+| agents/test_27.md | file | 30 |
+| agents/test_28.md | file | 30 |
+| agents/test_29.md | file | 11221 |
+| agents/test_30.md | file | 10872 |
+| agents/test_31.md | file | 1035 |
+| agents/test_32.md | file | 13793 |
+| agents/test_33/ | dir | - |
+| agents/test_33/report.md | file | 1460 |
