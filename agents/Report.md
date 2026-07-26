@@ -1,8 +1,6 @@
-# Repository File Structure Report
+- Test_2 2026-07-26 02:31:07 UTC
 
-- Test_2 2026-07-26 01:40:30 UTC
-
-## Repository: Bench_GitHub_MCP
+# Repository File Structure: Bench_GitHub_MCP
 
 ```
 Bench_GitHub_MCP/
@@ -52,10 +50,3 @@ Bench_GitHub_MCP/
     └── test_50/
         └── report.md
 ```
-
-### Summary
-- 1 root file: `README.md`
-- `agents/` directory containing:
-  - 1 report file: `Report.md`
-  - 6 standalone test markdown files: `test_27.md` through `test_32.md`
-  - 18 test subdirectories (`test_33` through `test_50`), each containing a single `report.md` file
