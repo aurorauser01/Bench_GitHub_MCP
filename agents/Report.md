@@ -1,9 +1,9 @@
-- Test_2 2026-08-26 12:01:07 UTC
+- Test_2 2026-08-26 12:01:38 UTC
 
-# Bench_GitHub_MCP Repository Structure
+# Bench_GitHub_MCP File Structure
 
 ```
-/
+Bench_GitHub_MCP/
 ├── README.md
 └── agents/
     ├── Report.md
